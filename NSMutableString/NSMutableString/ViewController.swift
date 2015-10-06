@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  NSMutableString_delete
+//  NSMutableString
 //
 //  Created by Masahito Mizogaki on 2015/10/02.
 //  Copyright © 2015年 Masahito Mizogaki. All rights reserved.
