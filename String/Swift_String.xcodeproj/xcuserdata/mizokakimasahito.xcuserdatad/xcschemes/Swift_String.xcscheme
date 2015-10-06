@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FFCB5F2219765E9200724195"
-               BuildableName = "String.app"
-               BlueprintName = "String"
-               ReferencedContainer = "container:String.xcodeproj">
+               BuildableName = "Swift_String.app"
+               BlueprintName = "Swift_String"
+               ReferencedContainer = "container:Swift_String.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FFCB5F2219765E9200724195"
-            BuildableName = "String.app"
-            BlueprintName = "String"
-            ReferencedContainer = "container:String.xcodeproj">
+            BuildableName = "Swift_String.app"
+            BlueprintName = "Swift_String"
+            ReferencedContainer = "container:Swift_String.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FFCB5F2219765E9200724195"
-            BuildableName = "String.app"
-            BlueprintName = "String"
-            ReferencedContainer = "container:String.xcodeproj">
+            BuildableName = "Swift_String.app"
+            BlueprintName = "Swift_String"
+            ReferencedContainer = "container:Swift_String.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FFCB5F2219765E9200724195"
-            BuildableName = "String.app"
-            BlueprintName = "String"
-            ReferencedContainer = "container:String.xcodeproj">
+            BuildableName = "Swift_String.app"
+            BlueprintName = "Swift_String"
+            ReferencedContainer = "container:Swift_String.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

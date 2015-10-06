@@ -15,12 +15,31 @@ class ViewController: UIViewController {
         
         let str = "SWIFT"
         
+        /* Swift2.0で変わった */
+        let num = (str).characters.count
+        print(num)
+        
+        
         if (str == "Swift") {
+            
             print("Swiftと一致")
         } else if (str == "SWIFT") {
-            print("SWIFTと一致")
+            
+            print("SwiftとSWIFTが一致:これでも通っちゃう！")
         }
-
+        
+        if(str.lowercaseString == "swift"){
+            
+            print("大文字小文字を区別しなければ同じ",str.lowercaseString)
+        }
+        if(str.uppercaseString == "SWIFT"){
+            
+            print("大文字小文字を区別しなければ同じ",str.uppercaseString)
+        } else {
+            
+            print("全然違う")
+            return
+        }
     }
 
     override func didReceiveMemoryWarning() {
